@@ -1,4 +1,4 @@
-- ✍️ Hi, I’m @Jackbytes
+- ✍️ Hi, I’m @Jackbytes (Jack Harrington)
 - 👀 I’m interested in using software creatively and to help people.
 - 🌱 I’m currently learning Javascript and Unity.
 - 💞️ I’m looking to collaborate on anything!
