@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jackbytes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ✍️ Hi, I’m @Jackbytes
+- 👀 I’m interested in using software creatively and to help people.
+- 🌱 I’m currently learning Javascript and Unity.
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me: jackjharrington@icloud.com
 
 <!---
 Jackbytes/Jackbytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
