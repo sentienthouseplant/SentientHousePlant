@@ -1,4 +1,4 @@
-- 🙏 Hi, I’m @Jackbytes (Jack Harrington)
+- 🙏 Hi, I’m @SentientHousePlant (J Harrington)
 - 👀 I’m interested in using software creatively and to help people.
 - 🌱 I’m currently learning React, NodeJS, and the Godot engine. 
 - 💞️ I’m looking to collaborate on anything!
