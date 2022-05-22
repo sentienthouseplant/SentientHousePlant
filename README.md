@@ -1,5 +1,5 @@
-- 🙏 Hi, I’m @SentientHousePlant (J "Lils" Harrington)
+- ✨ Hi, I’m @SentientHousePlant (J "Indi" Harrington)
 - 👀 I’m interested in using software creatively and to help people.
 - 🌱 I’m currently learning React, Flask, and the Godot engine. 
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: lilsharrington@gmail.com
+- 📫 How to reach me: indigoharrington@gmail.com
