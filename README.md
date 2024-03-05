@@ -2,4 +2,4 @@
 - 👀 I’m interested in using software creatively and to help people.
 - 🌱 I’m currently learning Rust 🦀
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: indigoharrington@gmail.com
+- 📫 How to reach me: adventures@indigoharrington.com
