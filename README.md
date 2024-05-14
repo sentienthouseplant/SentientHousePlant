@@ -1,4 +1,4 @@
-**-> ✨ Hi, I’m @SentientHousePlant (Indigo Harrington)**
+**-> ✨ Hi, I’m @SentientHousePlant (Jack Harrington)**
 - 👀 I’m interested in using software creatively and to help people.
 - 🌱 I’m currently learning Rust 🦀
 - 💞️ I’m looking to collaborate on anything!
